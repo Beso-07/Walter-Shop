@@ -1,0 +1,32 @@
+{
+  "appTitle": "Walter Shop",
+  "welcomeTitle": "Welcome to the Shop",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "submit": "Submit",
+  "close": "Close",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "success": "Success",
+  "accountCreated": "Account created successfully",
+  "accountSignIn": "Account sign-in successfully",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "cart": "Cart",
+  "profile": "Profile",
+  "changeTheme": "Change Theme",
+  "changeLanguage": "Change Language",
+  "errRequired": "Required",
+  "errEmail": "Must include @",
+  "errPasswordLen": "At least 6 characters",
+  "errPasswordMatch": "Passwords do not match",
+  "errFullNameCapital": "First letter must be uppercase",
+  "addedToCart": "Item added to the cart",
+  "cartEmpty": "Cart is empty",
+  "logout": "Logout",
+  "loggedOut": "Logged out"
+}
+
+

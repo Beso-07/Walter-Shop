@@ -1,0 +1,32 @@
+{
+  "appTitle": "متجر والتر",
+  "welcomeTitle": "مرحبًا بك في المتجر",
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "submit": "إرسال",
+  "close": "إغلاق",
+  "fullName": "الاسم الكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "success": "تم بنجاح",
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "accountSignIn": "تم تسجيل الدخول بنجاح",
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "cart": "السلة",
+  "profile": "الملف الشخصي",
+  "changeTheme": "تغيير النمط",
+  "changeLanguage": "تغيير اللغة",
+  "errRequired": "حقل مطلوب",
+  "errEmail": "يجب أن يحتوي على @",
+  "errPasswordLen": "٦ أحرف على الأقل",
+  "errPasswordMatch": "كلمتا المرور غير متطابقتين",
+  "errFullNameCapital": "يجب أن يبدأ الاسم بحرف كبير",
+  "addedToCart": "تمت إضافة العنصر إلى السلة",
+  "cartEmpty": "السلة فارغة",
+  "logout": "تسجيل الخروج",
+  "loggedOut": "تم تسجيل الخروج"
+}
+
+
